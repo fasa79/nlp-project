@@ -1,0 +1,40 @@
+Topic: 0 
+Words: 0.020*"game" + 0.018*"team" + 0.013*"player" + 0.010*"play" + 0.009*"season" + 0.006*"run" + 0.006*"basebal" + 0.006*"defens" + 0.006*"pitch" + 0.006*"trade"
+Topic: 1 
+Words: 0.022*"armenian" + 0.012*"turkish" + 0.010*"kill" + 0.007*"isra" + 0.007*"greek" + 0.007*"turk" + 0.006*"armenia" + 0.006*"attack" + 0.006*"turkey" + 0.006*"govern"
+Topic: 2 
+Words: 0.018*"game" + 0.016*"hockey" + 0.015*"play" + 0.014*"team" + 0.011*"entri" + 0.008*"player" + 0.007*"playoff" + 0.006*"goal" + 0.006*"canada" + 0.006*"pittsburgh"
+Topic: 3 
+Words: 0.026*"window" + 0.017*"card" + 0.010*"driver" + 0.009*"video" + 0.008*"monitor" + 0.007*"color" + 0.007*"softwar" + 0.007*"memori" + 0.006*"version" + 0.006*"machin"
+Topic: 4 
+Words: 0.019*"file" + 0.013*"program" + 0.009*"window" + 0.008*"imag" + 0.008*"avail" + 0.007*"server" + 0.006*"graphic" + 0.006*"user" + 0.006*"version" + 0.006*"data"
+Topic: 5 
+Words: 0.021*"scienc" + 0.011*"uiuc" + 0.010*"theori" + 0.009*"rochest" + 0.008*"scientif" + 0.007*"utexa" + 0.007*"physic" + 0.006*"book" + 0.006*"exist" + 0.006*"austin"
+Topic: 6 
+Words: 0.058*"drive" + 0.026*"scsi" + 0.022*"disk" + 0.017*"control" + 0.016*"hard" + 0.008*"floppi" + 0.008*"jpeg" + 0.007*"data" + 0.006*"jumper" + 0.006*"devic"
+Topic: 7 
+Words: 0.022*"christian" + 0.015*"jesus" + 0.010*"church" + 0.008*"bibl" + 0.007*"christ" + 0.007*"faith" + 0.006*"love" + 0.006*"life" + 0.006*"religion" + 0.006*"word"
+Topic: 8 
+Words: 0.015*"encrypt" + 0.013*"govern" + 0.012*"chip" + 0.011*"clipper" + 0.010*"secur" + 0.008*"presid" + 0.008*"clinton" + 0.008*"public" + 0.006*"key" + 0.006*"escrow"
+Topic: 9 
+Words: 0.013*"pitt" + 0.011*"bank" + 0.010*"gordon" + 0.008*"doctor" + 0.008*"medic" + 0.008*"diseas" + 0.007*"columbia" + 0.007*"netcom" + 0.007*"caus" + 0.007*"pain"
+Topic: 10 
+Words: 0.007*"cleveland" + 0.007*"weapon" + 0.006*"firearm" + 0.006*"gun" + 0.006*"access" + 0.005*"auto" + 0.005*"carri" + 0.004*"cwru" + 0.004*"safeti" + 0.004*"road"
+Topic: 11 
+Words: 0.008*"moral" + 0.005*"exist" + 0.005*"claim" + 0.005*"evid" + 0.005*"human" + 0.004*"argument" + 0.004*"atheist" + 0.004*"islam" + 0.004*"govern" + 0.004*"object"
+Topic: 12 
+Words: 0.028*"israel" + 0.014*"isra" + 0.014*"arab" + 0.013*"jew" + 0.012*"food" + 0.009*"sandvik" + 0.008*"palestinian" + 0.007*"appl" + 0.007*"govern" + 0.006*"kent"
+Topic: 13 
+Words: 0.017*"insur" + 0.009*"canada" + 0.008*"informatik" + 0.008*"david" + 0.008*"mcgill" + 0.008*"navi" + 0.008*"health" + 0.007*"hamburg" + 0.007*"east" + 0.007*"doug"
+Topic: 14 
+Words: 0.008*"leav" + 0.007*"report" + 0.006*"happen" + 0.006*"center" + 0.006*"apart" + 0.006*"health" + 0.006*"children" + 0.006*"face" + 0.005*"research" + 0.005*"child"
+Topic: 15 
+Words: 0.013*"washington" + 0.011*"colorado" + 0.010*"book" + 0.010*"appear" + 0.008*"copi" + 0.006*"cover" + 0.005*"buffalo" + 0.005*"jupit" + 0.005*"april" + 0.005*"imag"
+Topic: 16 
+Words: 0.010*"ohio" + 0.009*"exist" + 0.008*"koresh" + 0.008*"stratus" + 0.007*"magnus" + 0.007*"batf" + 0.007*"john" + 0.006*"children" + 0.006*"jesus" + 0.006*"bibl"
+Topic: 17 
+Words: 0.010*"bike" + 0.007*"engin" + 0.006*"power" + 0.006*"price" + 0.005*"water" + 0.005*"wire" + 0.005*"car" + 0.005*"berkeley" + 0.005*"buy" + 0.005*"sell"
+Topic: 18 
+Words: 0.016*"homosexu" + 0.014*"virginia" + 0.013*"drug" + 0.012*"uchicago" + 0.011*"gatech" + 0.010*"purdu" + 0.009*"cramer" + 0.008*"harvard" + 0.008*"optilink" + 0.008*"prism"
+Topic: 19 
+Words: 0.027*"space" + 0.023*"nasa" + 0.010*"orbit" + 0.009*"launch" + 0.006*"earth" + 0.006*"moon" + 0.006*"satellit" + 0.006*"research" + 0.006*"project" + 0.006*"mission"
